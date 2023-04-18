@@ -101,22 +101,17 @@ h1 span {
 }
 
 .title {
-    padding: 12%;
+    padding: 20% 12%;
     position: relative;
     right: 100px;
     bottom: 50px;
 }
 
-.title h3,
-h1 {
-    line-height: 2;
-    padding: 1rem;
-    margin-right: auto;
-}
 
 .avatar {
     width: 200px;
     height: 259.55px;
+    margin-top: 12%;
 }
 
 /* animation on image tag */
@@ -126,8 +121,6 @@ h1 {
     z-index: 2;
     right: 100px;
     top: 20px;
-    /* bottom: px; */
-    /* background-color: #1f6182; */
     box-shadow: -2px 3px #1e101c;
 }
 
@@ -149,7 +142,6 @@ h1 {
     padding: 35px 0 20px;
     border: 1px solid #ccc;
     color: #7d909f;
-    /* background-color: #6e2364; */
 }
 
 
@@ -180,8 +172,6 @@ h1 {
     color: #E9EAE5;
     border: none;
 }
-
-
 
 /* footer section */
 
